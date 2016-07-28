@@ -1,0 +1,21 @@
+{
+  "name": "thinkfic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/poker.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  },
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
